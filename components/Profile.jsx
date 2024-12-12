@@ -59,7 +59,7 @@ const Profile = ({ name, desc, data, setData }) => {
       </div>
     </div>
     <p className="desc max-w-md">
-      You're amazing prompts are here and you can manage it in any case...
+      Youre amazing prompts are here and you can manage it in any case...
       </p>
       <div className="py-5">
         {

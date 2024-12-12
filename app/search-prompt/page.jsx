@@ -35,7 +35,7 @@ const SearchPrompt = () => {
             </div>
           ))
         ) : (
-          <p>No posts found for the tag "{tag}".</p>
+          <p>No posts found for the tag {tag}.</p>
         )}
       </div>
     </section>
